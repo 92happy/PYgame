@@ -34,4 +34,6 @@ class Ship():
 		
 	def center_ship(self):
 		self.center = self.screen_rect.centerx
-		
+	
+
+#这里就是加个注释，没啥意义
